@@ -78,3 +78,10 @@ table {
 	border-spacing: 0;
 }
 /* End of Eric Meyer's CSS Reset */
+
+.clearfix {
+    clear: both;
+    height: auto;
+    float: none;
+    overflow: hidden;
+}
